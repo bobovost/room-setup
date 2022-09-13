@@ -1,0 +1,6 @@
+User-agent: *
+
+Allow: /
+
+
+sitemap: https://bobovost.github.io/room-setup/sitemapx.xml
